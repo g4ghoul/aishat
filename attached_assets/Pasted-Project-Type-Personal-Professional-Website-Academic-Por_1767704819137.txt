@@ -1,0 +1,184 @@
+Project Type: Personal Professional Website / Academic Portfolio & Personal Brand
+Owner: Aishat Alatishe
+Primary Goal: Build a personal website that presents Aishat as a Protein Scientist, PhD Candidate (graduating this year), Researcher, Advocate, and Thought Leader, while also showcasing her personality, values, and lived experiences as a Nigerian Muslim woman in the US.
+
+Core Identity & Positioning
+
+Create a website that balances academic credibility with authentic personal branding.
+
+Aishat Alatishe is:
+
+A Protein Scientist based in the United States
+
+A PhD candidate graduating this year (anticipated title: Dr. Aishat Alatishe)
+
+A research scientist with 3 peer-reviewed publications (2 in 2025, 1 as first author)
+
+An elected Graduate Student Senator (re-elected with highest votes)
+
+A Muslimah, feminist, and advocate for mental health, good governance, and graduate student welfare
+
+Nigerian by heritage, living in the diaspora
+
+Confident, humorous, reflective, and growth-oriented
+
+Tone should be:
+
+Intelligent, warm, confident
+
+Honest and human (not stiff or overly corporate)
+
+Empowering, especially toward women in STEM
+
+Subtly bold but professional
+
+Visual Style & Design Direction
+
+Aesthetic: Modern, vibrant, clean
+
+Color palette: Monochrome (black/white/grey) with soft pink or muted bold accents
+
+Typography: Clean sans-serif for body text; elegant serif or bold display font for headers
+
+Layout: Spacious, scroll-friendly, strong hero section
+
+Imagery:
+
+Professional selfies (hijab-friendly, polished)
+
+Academic/lifestyle crossover (conferences, outfits, events)
+
+Optional gallery sliders (fashion, travel, moments of joy)
+
+Avoid clutter. Prioritize clarity and storytelling.
+
+Required Pages & Sections
+1. Home
+
+Hero section with:
+
+Name: Aishat Alatishe
+
+Headline: Protein Scientist | PhD Candidate | Researcher & Advocate
+
+Subtext highlighting science, advocacy, and identity
+
+Professional profile photo
+
+Clear call-to-action buttons:
+
+“About Me”
+
+“Research & Publications”
+
+“Contact”
+
+2. About
+
+Narrative-driven section covering:
+
+Academic journey and research identity
+
+Nigerian roots and Muslim identity (brief, respectful)
+
+Growth story: confidence, resilience, mental health progress
+
+Balance of science, advocacy, and joy
+Tone: reflective, grounded, aspirational.
+
+3. Research & Publications
+
+Professional academic section including:
+
+Short bio as a Protein Scientist
+
+Research interests (leave flexible if unspecified)
+
+Publications list:
+
+3 total publications
+
+Highlight first-author paper
+
+Awards and recognitions (if available)
+
+Graduate Student Senator role and impact
+
+Design should resemble a clean academic profile (Google Scholar–inspired but modern).
+
+4. Advocacy & Leadership
+
+Cover:
+
+Graduate student advocacy
+
+Feminism and women in STEM
+
+Mental health awareness
+
+Ethical leadership and social responsibility
+Keep language thoughtful, firm, and non-inflammatory.
+
+5. Life Beyond the Lab (Optional but Recommended)
+
+A lighter, humanizing section:
+
+Music & dance
+
+Culture and identity
+
+Community, friendships, joy
+
+This can be presented as a blog, highlights, or curated cards
+
+6. Gallery / Media
+
+Image grid or slider
+
+Categories:
+
+Professional
+
+Personal moments
+
+Events & travel
+Optional embedded videos (if supported).
+
+7. Contact
+
+Simple contact form
+
+Optional links:
+
+X (Twitter)
+
+Google Scholar / LinkedIn (placeholders if unknown)
+Tone: open, professional, welcoming collaboration.
+
+Technical & Content Notes
+
+Mobile-first responsive design
+
+SEO-friendly headings
+
+Accessibility-aware color contrast
+
+Avoid assumptions about private family details
+
+No political extremism or defamatory language
+
+Emphasize public achievements and lived experience
+
+Overall Objective
+
+Deliver a website that positions Aishat Alatishe as:
+
+A credible scientist and future PhD holder
+
+A visible woman in STEM
+
+A thoughtful advocate and leader
+
+A full, relatable human being — not just a CV
+
+The site should feel like the digital home of someone entering the next phase of an impactful academic and professional career.
