@@ -4,25 +4,53 @@ import { ScrollText, Award, FlaskConical } from "lucide-react";
 
 const PUBLICATIONS = [
   {
-    title: "Structural insights into novel protein folding mechanisms in extreme environments",
+    title: "Nitric-oxide Independent Signaling Through Bacterial Heme-Nitric Oxide or Oxygen Binding Proteins (H-NOX) in Caulobacter crescentus",
     journal: "Journal of Biological Chemistry",
     year: "2025",
-    authors: "Alatishe, A., et al.",
+    authors: "A Alatishe, C Lee-Lopez, MS Islam, MR Hasan, E Vukl",
     isFirstAuthor: true,
   },
   {
-    title: "Comparative analysis of enzymatic activity under stress conditions",
-    journal: "Biochemistry Reports",
+    title: "Oxidative Activation of the Heme Nitric Oxide/Oxygen-Binding Protein (H-NOX) from Caulobacter crescentus",
+    journal: "Biochemistry",
     year: "2025",
-    authors: "Smith, J., Alatishe, A., et al.",
+    authors: "A Alatishe, T Albert, CC Lee-Lopez, R Hasan, P Moënne-Loccoz, ...",
+    isFirstAuthor: true,
+  },
+  {
+    title: "Unraveling Metabolic Reprogramming in Dhnox Paracoccus denitrificans: A Time-Resolved Metabolomics and AI-Powered Proteome Modeling Approach",
+    journal: "Frontiers in Molecular Biosciences",
+    year: "2025",
+    authors: "MS Islam, A Alatishe, W Bahureksa, ET Yukl",
     isFirstAuthor: false,
   },
   {
-    title: "Review of emerging techniques in protein crystallography",
-    journal: "Annual Review of Biochemistry",
-    year: "2023",
-    authors: "Doe, R., Alatishe, A.",
+    title: "H-NOX Influences Biofilm Formation, Central Metabolism, and Quorum Sensing in Paracoccus denitrificans",
+    journal: "Journal of Proteome Research",
+    year: "2024",
+    authors: "MS Islam, A Alatishe, CC Lee-Lopez, F Serrano, ET Yukl",
     isFirstAuthor: false,
+  },
+  {
+    title: "Abstract 1658 Proteome study unveils the regulation of metabolic pathways during the biofilm formation process in the Δhnox Paracoccus denitrificans",
+    journal: "Journal of Biological Chemistry",
+    year: "2024",
+    authors: "A Alatishe, MS Islam, E Yukl",
+    isFirstAuthor: true,
+  },
+  {
+    title: "Kinetic Assay of cyclic di-GMP signaling in Paracoccus denitrificans",
+    journal: "Journal of Biological Chemistry",
+    year: "2023",
+    authors: "A Alatishe, E Yukl",
+    isFirstAuthor: true,
+  },
+  {
+    title: "Cyclic di‐GMP Signaling in Paracoccus denitrificans",
+    journal: "The FASEB Journal",
+    year: "2022",
+    authors: "A Alatishe, F Serrano, MS Islam, E Yukl",
+    isFirstAuthor: true,
   }
 ];
 
