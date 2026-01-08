@@ -25,8 +25,10 @@ export default function About() {
             </p>
             <p className="mb-6">
               As a PhD candidate, I specialize in biochemistry, where I spend my days (and often nights) in the lab, 
-              deciphering protein structures. But science doesn't happen in a vacuum. My identity as a Muslim woman 
-              in STEM profoundly shapes my perspective, driving me to advocate for more inclusive and ethical scientific spaces.
+              deciphering protein structures. But science doesn't happen in a vacuum. I am an unapologetic feminist 
+              who believes that the liberation and empowerment of women are central to progress—both in the lab 
+              and in the world. My identity as a Muslim woman in STEM profoundly shapes my perspective, driving 
+              me to advocate for more inclusive and ethical scientific spaces where women's rights are never up for debate.
             </p>
             <p>
               I believe that true growth happens at the intersection of discipline and joy. While I am deeply committed 

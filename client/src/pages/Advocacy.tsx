@@ -10,8 +10,8 @@ export default function Advocacy() {
     },
     {
       icon: Scale,
-      title: "Women in STEM",
-      desc: "Working to dismantle systemic barriers and creating mentorship pipelines for young women entering scientific fields."
+      title: "Unapologetic Feminism",
+      desc: "An unwavering advocate for women's rights and liberation. I believe in standing for women at any given place or time, working to dismantle systemic barriers and creating mentorship pipelines for young women entering scientific fields."
     },
     {
       icon: HeartHandshake,
@@ -47,10 +47,11 @@ export default function Advocacy() {
 
         <div className="bg-secondary/30 rounded-3xl p-8 md:p-12">
           <div className="max-w-3xl mx-auto text-center">
-            <h3 className="font-serif text-2xl md:text-3xl font-bold mb-6">"Leadership is not about being in charge. It is about taking care of those in your charge."</h3>
+            <h3 className="font-serif text-2xl md:text-3xl font-bold mb-6">"Feminism is the radical notion that women are human beings."</h3>
             <p className="text-muted-foreground text-lg mb-8">
-              My approach to leadership is grounded in empathy and action. Whether serving on the student senate 
-              or mentoring undergraduates, I strive to be the support system I wish I had when I started.
+              My advocacy is rooted in the belief that equality is not a request—it is a requirement. 
+              Whether serving on the student senate or mentoring undergraduates, I prioritize the 
+              advancement and protection of women's rights in every space I occupy.
             </p>
           </div>
         </div>
