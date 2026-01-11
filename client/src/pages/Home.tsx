@@ -59,22 +59,17 @@ export default function Home() {
             className="relative"
           >
             <div className="aspect-[3/4] md:aspect-[4/5] relative rounded-[2rem] overflow-hidden shadow-2xl shadow-primary/10 border border-white/50">
-              {/* Placeholder for professional headshot */}
               <div className="absolute inset-0 bg-neutral-100 flex items-center justify-center text-muted-foreground/30">
-                {/* 
-                  Unsplash image: Professional woman scientist or headshot 
-                  Using a generic professional placeholder 
-                */}
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80" 
+                  src="/aishat-hero.jpg" 
                   alt="Aishat Alatishe" 
-                  className="object-cover w-full h-full"
+                  className="object-cover w-full h-full object-[center_25%]"
                 />
               </div>
               
               {/* Floating Badge */}
               <motion.div 
-                className="absolute bottom-8 left-8 right-8 bg-white/90 backdrop-blur-md p-6 rounded-2xl shadow-lg border border-white/50"
+                className="absolute bottom-8 left-8 right-8 bg-white/90 dark:bg-black/80 backdrop-blur-md p-6 rounded-2xl shadow-lg border border-white/50 dark:border-white/10"
                 initial={{ y: 50, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.5 }}
