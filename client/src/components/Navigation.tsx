@@ -2,7 +2,7 @@ import { Link, useLocation } from "wouter";
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { Button } from "./ui/button";
+import { ThemeToggle } from "./ThemeToggle";
 
 const NAV_ITEMS = [
   { href: "/", label: "Home" },
@@ -57,15 +57,21 @@ export function Navigation() {
               {item.label}
             </Link>
           ))}
+          <div className="ml-2 pl-2 border-l border-border/40">
+            <ThemeToggle />
+          </div>
         </nav>
 
         {/* Mobile Toggle */}
-        <button
-          className="md:hidden p-2 text-foreground"
-          onClick={() => setIsMobileOpen(!isMobileOpen)}
-        >
-          {isMobileOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-        </button>
+        <div className="flex items-center md:hidden gap-2">
+          <ThemeToggle />
+          <button
+            className="p-2 text-foreground"
+            onClick={() => setIsMobileOpen(!isMobileOpen)}
+          >
+            {isMobileOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
       </div>
 
       {/* Mobile Nav */}
