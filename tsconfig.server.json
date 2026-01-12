@@ -2,8 +2,8 @@
   "extends": "./tsconfig.base.json",
   "include": ["server", "shared"],
   "compilerOptions": {
-    "rootDir": "server",
-    "outDir": "dist/server",
+    "rootDir": ".",
+    "outDir": "dist",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ES2020",
