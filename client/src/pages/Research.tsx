@@ -1,6 +1,7 @@
 import { Section, SectionHeader } from "@/components/ui/section";
 import { CardHover } from "@/components/ui/card-hover";
 import { ScrollText, Award, FlaskConical } from "lucide-react";
+import { useEffect } from "react";
 
 const PUBLICATIONS = [
   {
@@ -55,6 +56,10 @@ const PUBLICATIONS = [
 ];
 
 export default function Research() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | Research";
+  }, []);
+
   return (
     <div className="min-h-screen pt-24">
       <Section>

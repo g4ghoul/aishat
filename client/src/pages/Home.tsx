@@ -3,8 +3,13 @@ import { ArrowRight, Microscope, Heart, Globe, Quote } from "lucide-react";
 import { motion } from "framer-motion";
 import { Section, SectionHeader } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
+import { useEffect } from "react";
 
 export default function Home() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | Home";
+  }, []);
+
   return (
     <div className="min-h-screen">
       {/* Hero Section */}

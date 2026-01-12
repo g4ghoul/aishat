@@ -1,5 +1,5 @@
 import { Section, SectionHeader } from "@/components/ui/section";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
 
 const IMAGES = [
@@ -17,6 +17,10 @@ const IMAGES = [
 const CATEGORIES = ["All", "Professional", "Personal", "Events"];
 
 export default function Gallery() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | Gallery";
+  }, []);
+
   const [filter, setFilter] = useState("All");
 
   const filteredImages = filter === "All" 

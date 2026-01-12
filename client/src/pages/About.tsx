@@ -1,8 +1,13 @@
 import { Section, SectionHeader } from "@/components/ui/section";
 import { CardHover } from "@/components/ui/card-hover";
 import { motion } from "framer-motion";
+import { useEffect } from "react";
 
 export default function About() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | About";
+  }, []);
+
   return (
     <div className="min-h-screen pt-24">
       <Section>

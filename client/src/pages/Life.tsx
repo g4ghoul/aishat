@@ -1,7 +1,12 @@
 import { Section, SectionHeader } from "@/components/ui/section";
 import { Music, MapPin, Coffee } from "lucide-react";
+import { useEffect } from "react";
 
 export default function Life() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | Life Beyond Lab";
+  }, []);
+
   return (
     <div className="min-h-screen pt-24">
       <Section>

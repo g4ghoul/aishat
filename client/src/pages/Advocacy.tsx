@@ -1,7 +1,12 @@
 import { Section, SectionHeader } from "@/components/ui/section";
 import { Users, Scale, HeartHandshake, Mic } from "lucide-react";
+import { useEffect } from "react";
 
 export default function Advocacy() {
+  useEffect(() => {
+    document.title = "Dr. Aishat | Advocacy";
+  }, []);
+
   const topics = [
     {
       icon: Users,
