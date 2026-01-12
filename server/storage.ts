@@ -3,7 +3,7 @@ import {
   contactMessages,
   type CreateContactMessageRequest,
   type ContactMessageResponse
-} from "@shared/schema";
+} from "../shared/schema";
 
 export interface IStorage {
   createContactMessage(message: CreateContactMessageRequest): Promise<ContactMessageResponse>;
