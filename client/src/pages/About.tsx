@@ -45,7 +45,7 @@ export default function About() {
                   <div className="w-1 h-full min-h-[40px] bg-primary/20 rounded-full" />
                   <div>
                     <p className="font-bold text-foreground">Ph.D. Candidate in Biochemistry</p>
-                    <p className="text-sm text-muted-foreground">Current University • Expected 2025</p>
+                    <p className="text-sm text-muted-foreground">New Mexico State University • Expected 2025</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
