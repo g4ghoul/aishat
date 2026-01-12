@@ -3,12 +3,15 @@ import { useState } from "react";
 import { cn } from "@/lib/utils";
 
 const IMAGES = [
-  { src: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80", category: "Professional", caption: "Lab work in progress" },
-  { src: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80", category: "Personal", caption: "Friends gathering" },
-  { src: "https://images.unsplash.com/photo-1544531586-fde5298cdd40?w=800&q=80", category: "Events", caption: "Speaking at Symposium" },
-  { src: "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?w=800&q=80", category: "Professional", caption: "Research Presentation" },
-  { src: "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&q=80", category: "Personal", caption: "Weekend vibes" },
-  { src: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80", category: "Events", caption: "Travel Diaries" },
+  { src: "/gallery/lab-1.jpg", category: "Professional", caption: "Lab work in progress" },
+  { src: "/gallery/lab-2.jpg", category: "Professional", caption: "Biochemical analysis" },
+  { src: "/gallery/lab-3.jpg", category: "Professional", caption: "Research facility" },
+  { src: "/gallery/lab-4.jpg", category: "Professional", caption: "Protein experimentation" },
+  { src: "/gallery/personal-1.jpg", category: "Personal", caption: "Personal moments" },
+  { src: "/gallery/personal-2.jpg", category: "Personal", caption: "Exploring nature" },
+  { src: "/gallery/personal-3.jpg", category: "Personal", caption: "Memorable experiences" },
+  { src: "/gallery/events-1.jpg", category: "Events", caption: "Speaking engagements" },
+  { src: "/gallery/events-2.jpg", category: "Events", caption: "Professional gatherings" },
 ];
 
 const CATEGORIES = ["All", "Professional", "Personal", "Events"];
